@@ -261,7 +261,7 @@
                 )
             )
         )
-        (cell (rename DS3231S_T&R "DS3231S#T&R")
+        (cell (rename DS3231S_T_R "DS3231S#T&R")
             (cellType generic)
             (view schematic
                 (viewType schematic)
@@ -745,7 +745,7 @@
                 (viewRef schematic (cellRef FDC1004DSCJ (libraryRef FluxLibrary)))
             )
                         (instance U6
-                (viewRef schematic (cellRef DS3231S_T&R (libraryRef FluxLibrary)))
+                (viewRef schematic (cellRef DS3231S_T_R (libraryRef FluxLibrary)))
             )
                         (instance U7
                 (viewRef schematic (cellRef MAX3485ESA_ (libraryRef FluxLibrary)))

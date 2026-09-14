@@ -1,0 +1,10 @@
+EESchema-LIBRARY Version 2.0 Version 1.0
+### Library: Main ###
+# morishield_v2_top
+#
+DEF morishield_v2_top U 0 30 Y Y 1 0 N
+F0 "U" 0 0 0 H V
+F1 "morishield_v2_top" 0 0 0 H V
+ENDDEF
+#
+#End Library

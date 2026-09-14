@@ -1,0 +1,16 @@
+(kicad_symbol_lib
+  (version 20220914)
+  (generator "legacy_sch_to_kicad")
+  (generator_version "1.0")
+  (symbol "morishield_v2_top"
+    (pin_names (offset 0.254))
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (duplicate_pin_numbers_are_jumpers no)
+    (property "Reference" "U" (at 0 2.54 0) (effects (font (size 1.27 1.27))))
+    (property "Value" "morishield_v2_top" (at 0 -2.54 0) (effects (font (size 1.27 1.27))))
+    (symbol "morishield_v2_top_1_1"
+    )
+  )
+)
